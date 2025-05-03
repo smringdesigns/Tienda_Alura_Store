@@ -1,5 +1,7 @@
 # Tienda_Alura_Store
+
 Análisis de Desempeño de Tiendas Alura Store
+
 📖 Descripción
 Este proyecto tiene como objetivo analizar el rendimiento de las tiendas de Alura Store para ayudar al Sr. Juan a decidir cuál de las cuatro tiendas debería vender para iniciar un nuevo emprendimiento. El análisis incluye la evaluación de varios factores clave, tales como:
 1. Ingresos Totales: Compara las tiendas según sus ventas.
@@ -62,6 +64,6 @@ Si deseas contribuir al proyecto, puedes hacerlo de la siguiente manera:
 
 💬 Contacto
 Si tienes alguna duda o sugerencia, no dudes en contactarme:
-Correo: smring.designs@gmail.com 
-GitHub: smringdesigns 
-Linkedin: https://www.linkedin.com/in/stivenson-mussa-rodriguez/ 
+- Correo: smring.designs@gmail.com 
+- GitHub: smringdesigns 
+- Linkedin: https://www.linkedin.com/in/stivenson-mussa-rodriguez/ 
