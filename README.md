@@ -39,7 +39,7 @@ Puedes instalar estas bibliotecas utilizando pip:
 - Recomendación Final: El informe entregará una recomendación sobre cuál tienda tiene el peor rendimiento (en base a los ingresos, calificaciones, productos y costos) y debe ser vendida.
 
 🧑‍💻 Ejecución del Proyecto
-1. Acceso a los Datos: El archivo analisis_tiendas.py contiene los datos relevantes para el análisis, cargados en un DataFrame de pandas.
+1. Acceso a los Datos: El archivo AluraStoreLatam.ipynb contiene los datos relevantes para el análisis, cargados en un DataFrame de pandas.
 2. Visualización: Se generarán gráficos en tiempo real utilizando matplotlib para representar de manera visual los resultados del análisis.
 3. Informe Final: Al ejecutar el código, se imprimirá un informe detallado que incluye las razones detrás de la decisión de vender la tienda menos eficiente.
 
