@@ -17,6 +17,7 @@ Con base en los resultados obtenidos de estos datos, se ofrece una recomendació
 - Este análisis requiere las siguientes bibliotecas de Python:
 - pandas: Para manejar y procesar los datos en formato de tablas.
 - matplotlib: Para generar gráficos y visualizaciones.
+
 Puedes instalar estas bibliotecas utilizando pip:
   pip install pandas matplotlib
 
