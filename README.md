@@ -3,6 +3,7 @@
 Análisis de Desempeño de Tiendas Alura Store
 
 📖 Descripción
+
 Este proyecto tiene como objetivo analizar el rendimiento de las tiendas de Alura Store para ayudar al Sr. Juan a decidir cuál de las cuatro tiendas debería vender para iniciar un nuevo emprendimiento. El análisis incluye la evaluación de varios factores clave, tales como:
 1. Ingresos Totales: Compara las tiendas según sus ventas.
 2. Categorías de Productos: Analiza las categorías más y menos vendidas.
